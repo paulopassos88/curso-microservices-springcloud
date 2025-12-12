@@ -1,4 +1,4 @@
-package br.com.passos.mscartoes.application.dto;
+package br.com.passos.mscartoes.application.representation;
 
 import br.com.passos.mscartoes.domain.BandeiraCartao;
 import br.com.passos.mscartoes.domain.Cartao;
